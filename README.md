@@ -1,6 +1,6 @@
 # JS_Priority_Queue
 *This is a basic priority queue using a linked list implemented by me in order to complete another project.*
-**PriQTest.js** *is a basic testing suite to get the hang of the library.*
+<br />**PriQTest.js** *is a basic testing suite to get the hang of the library.*
 
 ## Functions
 - **var q = new priQ()**: Constructor to make new priority queue
